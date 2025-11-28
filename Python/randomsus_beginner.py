@@ -1,7 +1,7 @@
 import random
 
 print("-----She loves me, she loves me not-----")
-c = input("Would you like to find out? (y/n)\n")
+c = input("Would  you like to  find  about it  ? (y/n)\n")
 if c = 'y': #equality relational operator
     if randint(1,50) == randint(1,50): #random.randint
         print("She loves me!")
